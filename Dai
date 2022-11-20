@@ -7,11 +7,11 @@ proxies:
   - name: "Charles"
     type: http
     server: 192.168.1.100
-    port: 5200
+    port: 9999
   - name: "Fiddler"
     type: http
     server: 192.168.1.100
-    port: 5210
+    port: 7777
 proxy-groups:
   - name: 🚀 节点选择
     type: select
