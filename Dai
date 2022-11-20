@@ -16,4 +16,4 @@ proxy-groups:
   - name: Proxy
     type: select
     proxies:
-      - Dai
+      - DIRECT
