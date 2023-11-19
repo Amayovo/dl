@@ -12,6 +12,10 @@ proxies:
     type: http
     server: 192.168.10.100
     port: 7999
+  - name: "Reqable"
+    type: http
+    server: 192.168.10.100
+    port: 7779
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -20,6 +24,7 @@ proxy-groups:
       - DIRECT
       - Charles
       - Fiddler
+      - Reqable
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -28,6 +33,7 @@ proxy-groups:
     proxies:
       - Charles
       - Fiddler
+      - Reqable
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -47,6 +53,7 @@ proxy-groups:
       - ♻️ 自动选择
       - Charles
       - Fiddler
+      - Reqable
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
