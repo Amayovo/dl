@@ -20,6 +20,10 @@ proxies:
     type: http
     server: 192.168.10.100
     port: 2023
+  - name: "ProxyPin"
+    type: http
+    server: 192.168.10.100
+    port: 2024
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -30,6 +34,7 @@ proxy-groups:
       - Fiddler
       - Reqable
       - Sunny
+      - ProxyPin
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -40,6 +45,7 @@ proxy-groups:
       - Fiddler
       - Reqable
       - Sunny
+      - ProxyPin
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -61,6 +67,7 @@ proxy-groups:
       - Fiddler
       - Reqable
       - Sunny
+      - ProxyPin
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
