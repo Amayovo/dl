@@ -7,15 +7,15 @@ proxies:
   - name: "Charles"
     type: http
     server: 192.168.10.100
-    port: 7878
+    port: 2025
   - name: "Fiddler"
     type: http
     server: 192.168.10.100
-    port: 7999
+    port: 2026
   - name: "Reqable"
     type: http
     server: 192.168.10.100
-    port: 7779
+    port: 2027
   - name: "Sunny"
     type: http
     server: 192.168.10.100
