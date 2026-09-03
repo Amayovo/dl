@@ -2,20 +2,20 @@
   "56": {
     "venue_name": "小清遥控车车",
     "cars": {
-      "8C4F00ABE550": {
+      "8C4F00YYYYYY": {
         "car_name": "1号车",
         "car_id": 409,
-        "camera": "3d1b53a3a7e3e8a4"
+        "camera": "1"
       },
       "8C4F00AC28D8": {
         "car_name": "3号车车",
         "car_id": 412,
         "camera": "749ba6e1c512cd20"
       },
-      "8C4F00XXXXXX": {
+      "8C4F00ABE550": {
         "car_name": "4号车车",
         "car_id": 414,
-        "camera": "这里填4号车摄像头ID"
+        "camera": "3d1b53a3a7e3e8a4"
       },
       "8C4F00YYYYYY": {
         "car_name": "5号车车",
