@@ -2,35 +2,60 @@
   "56": {
     "venue_name": "小清遥控车车",
     "cars": {
-      "8C4F00YYYYYY": {
+      "8C4F00ABE550": {
         "car_name": "1号车",
         "car_id": 409,
-        "camera": "8C4F00YYYYYY"
+        "camera": "3d1b53a3a7e3e8a4"
       },
       "8C4F00AC28D8": {
         "car_name": "3号车车",
         "car_id": 412,
         "camera": "749ba6e1c512cd20"
       },
-      "8C4F00ABE550": {
+      "8C4F00XXXXXX": {
         "car_name": "4号车车",
         "car_id": 414,
-        "camera": "3d1b53a3a7e3e8a4"
+        "camera": "这里填4号车摄像头ID"
       },
       "8C4F00YYYYYY": {
         "car_name": "5号车车",
         "car_id": 1000,
-        "camera": "8C4F00YYYYYY"
+        "camera": "这里填5号车摄像头ID"
       }
     }
   },
-  "114": {
-    "venue_name": "阿柯的车",
+  "2": {
+    "venue_name": "花花",
     "cars": {
-      "8C4F00ZZZZZZ": {
-        "car_name": "1号车车",
-        "car_id": 0,
-        "camera": "1"
+      "3C8A1F0B141C": {
+        "car_name": "花花03",
+        "car_id": 90,
+        "camera": "747a28ca795c1854"
+      },
+      "3C8A1F0A1034": {
+        "car_name": "花花04",
+        "car_id": 92,
+        "camera": "e56a527b859d88a1"
+      },
+      "1CC3ABE0AEB0": {
+        "car_name": "花花01",
+        "car_id": 770,
+        "camera": "这里填花花01摄像头ID"
+      },
+      "D4E9F47984EC": {
+        "car_name": "花🌸",
+        "car_id": 893,
+        "camera": "这里填花🌸摄像头ID"
+      },
+      "D4E9F4798578": {
+        "car_name": "花花新05",
+        "car_id": 892,
+        "camera": "这里填花花新05摄像头ID"
+      },
+      "20E7C86AA26C": {
+        "car_name": "花花07",
+        "car_id": 995,
+        "camera": "这里填花花07摄像头ID"
       }
     }
   }
