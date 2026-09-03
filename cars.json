@@ -25,8 +25,13 @@
     }
   },
   "2": {
-    "venue_name": "花花",
+    "venue_name": "室内竞速赛道(花花专区)",
     "cars": {
+      "1CC3ABE0AEB0": {
+        "car_name": "花花01",
+        "car_id": 770,
+        "camera": "adcc1dcc4cb50b77"
+      },
       "3C8A1F0B141C": {
         "car_name": "花花03",
         "car_id": 90,
@@ -37,25 +42,20 @@
         "car_id": 92,
         "camera": "e56a527b859d88a1"
       },
-      "1CC3ABE0AEB0": {
-        "car_name": "花花01",
-        "car_id": 770,
-        "camera": "这里填花花01摄像头ID"
-      },
-      "D4E9F47984EC": {
-        "car_name": "花🌸",
-        "car_id": 893,
-        "camera": "这里填花🌸摄像头ID"
-      },
       "D4E9F4798578": {
         "car_name": "花花新05",
         "car_id": 892,
-        "camera": "这里填花花新05摄像头ID"
+        "camera": "79"
       },
       "20E7C86AA26C": {
         "car_name": "花花07",
         "car_id": 995,
-        "camera": "这里填花花07摄像头ID"
+        "camera": "169"
+      },
+      "D4E9F47984EC": {
+        "car_name": "花🌸",
+        "car_id": 893,
+        "camera": "80"
       }
     }
   }
