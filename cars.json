@@ -25,7 +25,7 @@
     }
   },
   "2": {
-    "venue_name": "花花",
+    "venue_name": "室内竞速赛道(花花专区)",
     "cars": {
       "1CC3ABE0AEB0": {
         "car_name": "花花01",
@@ -56,6 +56,36 @@
         "car_name": "花🌸",
         "car_id": 893,
         "camera": "80"
+      }
+    }
+  },
+  "15": {
+    "venue_name": "拿个杯-双双(双子专区)",
+    "cars": {
+      "1CC3ABE0AF04": {
+        "car_name": "双子大车01",
+        "car_id": 802,
+        "camera": "a9e65254b56444f6"
+      },
+      "D4E9F47984C8": {
+        "car_name": "双子新03",
+        "car_id": 814,
+        "camera": "ch2000117230"
+      },
+      "D4E9F478BB20": {
+        "car_name": "双子新04",
+        "car_id": 815,
+        "camera": "ch2000076550"
+      },
+      "409151CBD10C": {
+        "car_name": "双子07",
+        "car_id": 145,
+        "camera": "4a39d333e2ae27ce"
+      },
+      "0070077C5904": {
+        "car_name": "双子新摄08",
+        "car_id": 1027,
+        "camera": "77"
       }
     }
   }
